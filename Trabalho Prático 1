@@ -21,3 +21,14 @@ git push -u origin master
 git remote add origin HTTPS DO SEU REPOSITÓRIO (OBTIDO NO BOTÃO CODE)
 git branch -M master
 git push -u origin master
+
+# Adicionar um colaborador ao repositório:
+Na página principal do repositório:
+- clicar em setting
+- Colaborators
+- Add colaborator e procurar pela identificação do colega no GITHUB.
+
+# Clonar repositório
+Em um diretório qualquer utilizar o seguinte comando:
+- git clone HTTPS do repositório.
+
