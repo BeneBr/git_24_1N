@@ -1,0 +1,21 @@
+# Trabalho Prático - 1
+
+## Cada aluno deverá criar um repositório (local/remoto)
+## O repositório deverá conter pelo menos 25 branchs
+## Algumas branchs precisam ter mais de dois commits.
+## Enviar todas as branchs para o repositório remoto.
+## Todos os Merges precisam conter um Pull Request no GitHub.
+# Os commits OBRIGATORIAMENTE PRECISAM TER UMA BOA DESCRIÇÃO.
+
+# Criando um repositório e adicionando ao remoto
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin HTTPS DO SEU REPOSITÓRIO (OBTIDO NO BOTÃO CODE)
+git push -u origin master
+
+# Apenas adicionando quando um repositório local já está criado.
+git remote add origin HTTPS DO SEU REPOSITÓRIO (OBTIDO NO BOTÃO CODE)
+git branch -M master
+git push -u origin master
