@@ -12,8 +12,7 @@
 https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
 ## Cada Pull Request deverá ter uma discussão minimamente detalhada do que está sendo proposto como mudança.
-## Se todos os envolvidos naquele Pull Request, estiverem de acordo com as mudanças, os Donos do repositório devem
-aprovar o Pull Request e o ```Merge``` deve ser feito por quem abriu o Pr.
+## Se todos os envolvidos naquele Pull Request, estiverem de acordo com as mudanças, os Donos do repositório devem aprovar o Pull Request e o ```Merge``` deve ser feito por quem abriu o Pr.
 
 ## Lembrando sempre de:
 - ```Git fetch``` antes de começar cada branch.
